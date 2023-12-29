@@ -7,9 +7,9 @@ theme                  = "spectral"
 #googleAnalytics = "G-XXXXXXXXXX"
 
 [params]
-fancyTitle  = "Stargaze Foundation"                           # title for frontpage, may include image
+fancyTitle  = "Stargaze Foundation"                            # title for frontpage, may include image
 copyright   = "Stargaze Foundation"
-description = 'Decentralizing the future<br />of NFT finance'
+description = 'Decentralizing the future <br />of NFT finance'
 # startbuttonText  = "Contact"
 startbuttonLink  = "#"
 body_is_markdown = true
